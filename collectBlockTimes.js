@@ -1,4 +1,5 @@
-// geth --exec 'loadScript("./collectBlockTimes.js")' attach http://api.alimentaris.eu:8545
+// geth --exec 'loadScript("./collectBlockTimes.js")' attach http://localhost:8545
+
 var times =[];
 var homestead= 13000;
 
