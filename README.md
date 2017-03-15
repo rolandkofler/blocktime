@@ -59,4 +59,4 @@ Figure: Monte Carlo distributions of confirmation times
 
 ## Conclusions
 Smart contract developers must take into consideration that blocktimes can vary substantially. We observed many blocks that were mined under 1 s but in rare cases, a block time can pass 1 m 30 s.
-The more confirmations the more uncertainty. This consequence is mitigated by an adjustment algorithm that we shall explore in a future article.
+The more confirmations the more uncertainty. This consequence is mitigated by an adjustment algorithm that we shall explore in a future article. ∎
